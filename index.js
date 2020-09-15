@@ -6,9 +6,9 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  if (animal !== animal) {
-    return animal;
-  }
+  let yourPet = "cat"; 
+  animal = yourPet;
+  return animal;
 }
 
 function add2(n) {
