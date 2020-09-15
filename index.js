@@ -9,8 +9,6 @@ function yourAnimal() {
   if (animal !== animal) {
     return animal;
   }
-
-
 }
 
 function add2(n) {
